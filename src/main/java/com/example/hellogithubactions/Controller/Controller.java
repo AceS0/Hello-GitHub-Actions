@@ -1,4 +1,4 @@
 package com.example.hellogithubactions.Controller;
 
-public class WelcomeController {
+public class Controller {
 }
